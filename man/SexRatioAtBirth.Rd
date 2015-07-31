@@ -15,7 +15,7 @@ Estimates and projections of the sex ratio at birth derived as the number of fem
   A data frame with one record per country. It contains columns \code{country}, \code{country_code}, and one column per five-year time interval (i.e., from 1 July in year t to 1 July in year t+5 such as the period 1950-1955 refers to the period 1950.5-1955.5 and the mid of the period is 1953.0).
 }
 \source{
- This dataset is based on estimates and projections of United Nations, Department of Economic and Social Affairs, Population Division (2013). 
+ This dataset is based on estimates and projections of United Nations, Department of Economic and Social Affairs, Population Division (2015). 
  }
  
  \references{

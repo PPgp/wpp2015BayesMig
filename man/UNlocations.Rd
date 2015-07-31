@@ -5,7 +5,7 @@
 United Nations Table of Locations
 }
 \description{
-United Nations table of locations, including regions, as available in 2015.
+United Nations table of locations, including regions, for statistical purposes as available in 2015.
 }
 \usage{
 	data(UNlocations)
@@ -24,7 +24,9 @@ United Nations table of locations, including regions, as available in 2015.
 }
 
 \source{
-Data provided by the United Nations Population Division
+Data provided by the United Nations Population Division.
+
+The designations employed in this dataset do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. 
 }
 %\references{
 %%  ~~ possibly secondary sources and usages ~~

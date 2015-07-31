@@ -7,7 +7,7 @@ World Population Prospects 2015
 }
 
 \description{
-Data from the United Nations World Population Prospects 2012.
+Data from the United Nations World Population Prospects 2015.
 }
 \details{
 \tabular{ll}{
