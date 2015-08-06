@@ -25,7 +25,7 @@
 "Mauritius"	480	910	"Eastern Africa"	903	"Africa"	4	-1	-1	1502	-1	1517	-1	902	-1	934	-1	947	948
 "Mayotte"	175	910	"Eastern Africa"	903	"Africa"	4	-1	-1	-1	-1	-1	-1	902	-1	934	-1	947	948
 "Mozambique"	508	910	"Eastern Africa"	903	"Africa"	4	1500	-1	-1	-1	-1	-1	902	-1	-1	941	947	948
-"Réunion"	638	910	"Eastern Africa"	903	"Africa"	4	-1	-1	-1	-1	-1	-1	902	-1	934	-1	947	948
+"Reunion"	638	910	"Eastern Africa"	903	"Africa"	4	-1	-1	-1	-1	-1	-1	902	-1	934	-1	947	948
 "Rwanda"	646	910	"Eastern Africa"	903	"Africa"	4	1500	-1	-1	-1	-1	-1	902	-1	-1	941	947	948
 "Seychelles"	690	910	"Eastern Africa"	903	"Africa"	4	-1	-1	-1	1503	-1	-1	902	-1	934	-1	947	948
 "Somalia"	706	910	"Eastern Africa"	903	"Africa"	4	1500	-1	-1	-1	-1	-1	902	-1	-1	941	947	948
@@ -62,7 +62,7 @@
 "Benin"	204	914	"Western Africa"	903	"Africa"	4	1500	-1	-1	-1	-1	-1	902	-1	-1	941	947	948
 "Burkina Faso"	854	914	"Western Africa"	903	"Africa"	4	1500	-1	-1	-1	-1	-1	902	-1	-1	941	947	948
 "Cabo Verde"	132	914	"Western Africa"	903	"Africa"	4	-1	1501	-1	-1	1517	-1	902	-1	934	-1	947	948
-"Côte d'Ivoire"	384	914	"Western Africa"	903	"Africa"	4	-1	1501	-1	-1	1517	-1	902	-1	934	-1	947	948
+"Cote d'Ivoire"	384	914	"Western Africa"	903	"Africa"	4	-1	1501	-1	-1	1517	-1	902	-1	934	-1	947	948
 "Gambia"	270	914	"Western Africa"	903	"Africa"	4	1500	-1	-1	-1	-1	-1	902	-1	-1	941	947	948
 "Ghana"	288	914	"Western Africa"	903	"Africa"	4	-1	1501	-1	-1	1517	-1	902	-1	934	-1	947	948
 "Guinea"	324	914	"Western Africa"	903	"Africa"	4	1500	-1	-1	-1	-1	-1	902	-1	-1	941	947	948
@@ -198,7 +198,7 @@
 "Caribbean Netherlands"	535	915	"Caribbean"	904	"Latin America and the Caribbean"	4	-1	-1	-1	-1	-1	-1	902	-1	934	-1	-1	948
 "Cayman Islands"	136	915	"Caribbean"	904	"Latin America and the Caribbean"	4	-1	-1	-1	1503	-1	-1	902	-1	934	-1	-1	948
 "Cuba"	192	915	"Caribbean"	904	"Latin America and the Caribbean"	4	-1	-1	1502	-1	1517	-1	902	-1	934	-1	-1	948
-"Curaçao"	531	915	"Caribbean"	904	"Latin America and the Caribbean"	4	-1	-1	-1	1503	-1	-1	902	-1	934	-1	-1	948
+"Curacao"	531	915	"Caribbean"	904	"Latin America and the Caribbean"	4	-1	-1	-1	1503	-1	-1	902	-1	934	-1	-1	948
 "Dominica"	212	915	"Caribbean"	904	"Latin America and the Caribbean"	4	-1	-1	1502	-1	1517	-1	902	-1	934	-1	-1	948
 "Dominican Republic"	214	915	"Caribbean"	904	"Latin America and the Caribbean"	4	-1	-1	1502	-1	1517	-1	902	-1	934	-1	-1	948
 "Grenada"	308	915	"Caribbean"	904	"Latin America and the Caribbean"	4	-1	-1	1502	-1	1517	-1	902	-1	934	-1	-1	948
