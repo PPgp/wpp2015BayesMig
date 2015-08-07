@@ -19,7 +19,8 @@ United Nations table of locations, including regions, for statistical purposes a
     \item{\code{reg_name}}{Name of the regions.}
     \item{\code{area_code}}{Area code.}
     \item{\code{area_name}}{Area names, such as \code{Africa}, \code{Asia}, \code{Europe} \code{Latin America and the Caribbean}, \code{Northern America}, \code{Oceania}, \code{World}.}
-    \item{\code{location_type}}{Code giving the type of the observation (0=World, 2=Major Area, 3=Region, 4=Country/Area, 5=Development group, 12=Special groupings).}
+    \item{\code{location_type}}{Code giving the type of the observation: 0=World, 2=Major Area, 3=Region, 4=Country/Area, 5=Development group, 12=Special groupings. Other numbers are allowed and they can be used for aggregation, see below.}
+    \item{\code{agcode_1500}, \code{agcode_1501}, \code{agcode_1502}, \code{agcode_1503}, \code{agcode_1517}, \code{agcode_901}, \code{agcode_902}, \code{agcode_921}, \code{agcode_934}, \code{agcode_941}, \code{agcode_947}, \code{agcode_948}}{Optional columns that can be used for aggregations. To aggregate a region with \code{country_code}=\eqn{x}, get the value of its \code{location_type}, say \eqn{y}. Then look for the column \code{agcode_y} and locate all records with \code{agcode_y}=\eqn{x} that have \code{location_type}=4.}
   }
 }
 
