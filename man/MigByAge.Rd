@@ -1,4 +1,5 @@
 \name{migration}
+\alias{migration}
 \alias{migrationM}
 \alias{migrationF}
 \docType{data}
@@ -9,6 +10,7 @@ Datasets on Migration
 Estimates and projections of male and female age-specific net migration.
 }
 \usage{
+data(migration)
 data(migrationM)
 data(migrationF)
 }

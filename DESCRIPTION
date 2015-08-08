@@ -1,8 +1,8 @@
 Package: wpp2015
 Version: 1.0-0
-Date: 2015-07-29
+Date: 2015-08-07
 Title: World Population Prospects 2015
-Author: Population Division, Department of Economic and Social Affairs, United Nations. Packaged by Patrick Gerland, Igor Ribeiro and Hana Sevcikova. 
+Author: Population Division, Department of Economic and Social Affairs, United Nations.
 Maintainer: Hana Sevcikova <hanas@uw.edu>
 Depends: R (>= 2.14.2)
 Description: Provides data from the United Nation's World Population Prospects 2015.
