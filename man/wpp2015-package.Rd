@@ -12,8 +12,8 @@ Data from the United Nations World Population Prospects 2015.
 \details{
 \tabular{ll}{
 Package: \tab wpp2015\cr
-Version: \tab 1.0-1\cr
-Date: \tab 2015-10-14\cr
+Version: \tab 1.1-0\cr
+Date: \tab 2016-6-2\cr
 URL: \tab \url{http://esa.un.org/wpp}\cr
 }
 
