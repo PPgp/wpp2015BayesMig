@@ -115,7 +115,7 @@
 "Thailand"	764	920	"South-Eastern Asia"	935	"Asia"	4	-1	-1	1502	-1	1517	-1	902	-1	934	-1	-1	948
 "Timor-Leste"	626	920	"South-Eastern Asia"	935	"Asia"	4	-1	1501	-1	-1	1517	-1	902	-1	-1	941	-1	948
 "Viet Nam"	704	920	"South-Eastern Asia"	935	"Asia"	4	-1	1501	-1	-1	1517	-1	902	-1	934	-1	-1	948
-"Western Asia"	922	921	"South-Central Asia"	935	"Asia"	3	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+"Western Asia"	922	922	"Western Asia"	935	"Asia"	3	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
 "Armenia"	51	922	"Western Asia"	935	"Asia"	4	-1	1501	-1	-1	1517	-1	902	-1	934	-1	-1	948
 "Azerbaijan"	31	922	"Western Asia"	935	"Asia"	4	-1	-1	1502	-1	1517	-1	902	-1	934	-1	-1	948
 "Bahrain"	48	922	"Western Asia"	935	"Asia"	4	-1	-1	-1	1503	-1	-1	902	-1	934	-1	-1	948
