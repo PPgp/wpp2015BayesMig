@@ -1,1 +1,0 @@
-sexRatio <- read.delim(file='sexRatio.txt', comment.char='#', check.names=FALSE)
