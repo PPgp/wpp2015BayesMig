@@ -1,11 +1,12 @@
-Package: wpp2015
-Version: 1.1-0
-Date: 2016-6-2
-Title: World Population Prospects 2015
-Author: Population Division, Department of Economic and Social Affairs, United Nations.
+Package: wpp2015plusMig
+Version: 0.1-0
+Date: 2016-6-17
+Title: World Population Prospects 2015 plus Probabilistic Migration
+Author: Hana Sevcikova, Jon Azose, Adrian Raftery
 Maintainer: Hana Sevcikova <hanas@uw.edu>
 Depends: R (>= 2.14.2)
-Description: Provides data from the United Nation's World Population Prospects 2015.
+Imports: wppExplorer, wpp2015
+Description: Provides data from population projections using a migration model (based on the United Nation's World Population Prospects 2015).
 License: GPL (>= 2)
 URL: http://esa.un.org/wpp, http://esa.un.org/unpd/ppp
 NeedsCompilation: no
