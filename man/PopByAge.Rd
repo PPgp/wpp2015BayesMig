@@ -15,6 +15,14 @@
 \alias{popproj80u}
 \alias{popproj95l}
 \alias{popproj95u}
+\alias{popMproj80l}
+\alias{popMproj80u}
+\alias{popMproj95l}
+\alias{popMproj95u}
+\alias{popFproj80l}
+\alias{popFproj80u}
+\alias{popFproj95l}
+\alias{popFproj95u}
 \docType{data}
 \title{
 Estimates and Projections of Population Counts
@@ -35,6 +43,14 @@ data(popproj95u)
 data(popprojHigh)
 data(popprojLow)
 
+data(popMproj80l)
+data(popFproj80l)
+data(popMproj80u)
+data(popFproj80u)
+data(popMproj95l)
+data(popFproj95l)
+data(popMproj95u)
+data(popFproj95u)
 data(popMprojMed)
 data(popFprojMed)
 data(popMprojHigh)

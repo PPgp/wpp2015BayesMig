@@ -1,5 +1,15 @@
 \name{migration}
 \alias{migration}
+\alias{migproj}
+\alias{migproj80l}
+\alias{migproj80u}
+\alias{migproj95l}
+\alias{migproj95u}
+\alias{mrateproj}
+\alias{mrateproj80l}
+\alias{mrateproj80u}
+\alias{mrateproj95l}
+\alias{mrateproj95u}
 \docType{data}
 \title{
 Dataset on Migration
@@ -9,6 +19,16 @@ Estimates and projections of total net migration.
 }
 \usage{
 data(migration)
+data(migproj)
+data(migproj80l)
+data(migproj80u)
+data(migproj95l)
+data(migproj95u)
+data(mrateproj)
+data(mrateproj80l)
+data(mrateproj80u)
+data(mrateproj95l)
+data(mrateproj95u)
 }
 \format{
   Data frame with one row per country.  It contains the following variables:
