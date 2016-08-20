@@ -9,8 +9,9 @@ before_install:
   - chmod 755 pkg-build.sh
   - ./pkg-build.sh bootstrap
 
-#install:
-#  - ./pkg-build.sh install_deps
+install:
+  - ./pkg-build.sh install_deps
+#  - Rscript -e 'install.packages("plyr", repos = "http://cran.rstudio.com")'
 
 script:
   - ./pkg-build.sh run_tests
