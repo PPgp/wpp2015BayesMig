@@ -12,10 +12,10 @@
 \alias{mrateproj95u}
 \docType{data}
 \title{
-Dataset on Migration
+Datasets on Migration
 }
 \description{
-Estimates and projections of total net migration.
+Estimates and projections of total net migration and net migration rate.
 }
 \usage{
 data(migration)
@@ -39,16 +39,23 @@ data(mrateproj95u)
   }
 }
 
+\details{
+	Dataset \code{migration} contains historical estimates on net migration (in thousand). Dataset \code{migproj} contains the median projection of net migration. Dataset \code{mrateproj} contains the median of annual net migration rate per thousand population. Datasets with the suffices \dQuote{80l}, \dQuote{80u}, \dQuote{95l}, \dQuote{95u} correspond to the 80 and 95\% probability lower (l) and upper (u) bound, respectively.
+}
+
 \source{
- These datasets are based on estimates and projections of United Nations, Department of Economic and Social Affairs, Population Division (2015). 
+	Migration projections were produced using the Azose et al. (2016) methodology.
+ Historical estimates were provided by the United Nations, Department of Economic and Social Affairs, Population Division (2015). 
  }
  
  \references{
+ Azose, J.J., Sevcikova, H., Raftery, A.E. (2016): Probabilistic population projections with migration uncertainty.  Proceedings of the National Academy of Sciences, 113:6460-6465. \url{http://www.pnas.org/content/113/23/6460.full}
+ 	
  World Population Prospects: The 2015 Revision. (\url{http://esa.un.org/unpd/wpp}) Special Tabulations.
 }
 
 \examples{
-data(migration)
-str(migration)
+data(mrateproj)
+str(mrateproj)
 }
 \keyword{datasets}

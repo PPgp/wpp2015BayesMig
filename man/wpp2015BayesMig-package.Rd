@@ -13,7 +13,7 @@ Estimates from 1950-2015 based on the United Nations World Population Prospects 
 \tabular{ll}{
 Package: \tab wpp2015BayesMig\cr
 Version: \tab 0.1-0\cr
-Date: \tab 2016-8-19\cr
+Date: \tab 2016-9-16\cr
 }
 
 The package contains the following datasets:
@@ -22,11 +22,13 @@ The package contains the following datasets:
 \item \link{popF}, \link{popM}, \link[=popFprojMed]{popXprojMed}, \link[=popFproj80u]{popXproj80u}, \link[=popFproj80l]{popXproj80l}, \link[=popFproj95u]{popXproj95u}, \link[=popFproj95l]{popXproj95l},  \link[=popFprojHigh]{popXprojHigh}, \link[=popFprojLow]{popXprojLow}: age- and sex-specific  population estimates and projections with X=\dQuote{F} and \dQuote{M}, including the median, probability bounds and the high and low variants.
 \item \link{migration}: total net migration historical estimates (from \pkg{wpp2015} package).
 \item \link{migproj}, \link{migproj80u}, \link{migproj80l}, \link{migproj95u}, \link{migproj95l}: projection of net migration including the median and probability bounds.
-\item \link{mrateproj}, \link{mrateproj80u}, \link{mrateproj80l}, \link{mrateproj95u}, \link{mrateproj95l}: projection of net migration rate including the median and probability bounds.
+\item \link{mrateproj}, \link{mrateproj80u}, \link{mrateproj80l}, \link{mrateproj95u}, \link{mrateproj95l}: projection of annual net migration rate including the median and probability bounds.
 \item \link{UNlocations}: location dataset
 }
+Other population datasets, e.g. on the scale of proportions, \link[=popPropMprojMed]{available}.
 }
 
+\note{These are not official UN projections. See the \link[wpp2015:wpp2015-package]{wpp2015} package for the latest UN projections.}
  
  \references{
  Azose, J.J., Sevcikova, H., Raftery, A.E. (2016): Probabilistic population projections with migration uncertainty.  Proceedings of the National Academy of Sciences, 113:6460-6465. \url{http://www.pnas.org/content/113/23/6460.full}
