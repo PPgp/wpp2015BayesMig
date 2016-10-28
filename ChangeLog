@@ -1,12 +1,3 @@
-1.1-0 (6/2/2016)
------
-The (rounded) migration dataset replaced by a dataset with more precise 
-values (with 3 decimals). [thanks Jon Azose]
-
-1.0-1 (10/14/2015)
-------
-In UNlocations, reg_code and reg_name corrected for Western Asia (922).
-
-1.0-0 (7/29/2015)
+0.1-0 (9/16/2016)
 ------
 Initial version.
