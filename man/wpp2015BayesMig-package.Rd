@@ -12,8 +12,8 @@ Estimates from 1950-2015 based on the United Nations World Population Prospects 
 \details{
 \tabular{ll}{
 Package: \tab wpp2015BayesMig\cr
-Version: \tab 0.1-0\cr
-Date: \tab 2016-9-16\cr
+Version: \tab 0.2-0\cr
+Date: \tab 2017-1-27\cr
 }
 
 The package contains the following datasets:
